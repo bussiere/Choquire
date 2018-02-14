@@ -1,5 +1,5 @@
 # Choquire
-A dependency manager for Powershell, using Chocolatey.
+A dependency manager for Powershell, using [Chocolatey](https://chocolatey.org/).
 
 Pronounced as *"chalk wire"*.
 
