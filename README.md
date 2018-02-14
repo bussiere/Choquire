@@ -5,7 +5,7 @@ A dependency manager for Powershell, using [Chocolatey](https://chocolatey.org/)
 
 Pronounced as *"chalk wire"*.
 
-Choquire checks whether any given package is installed, Install it if it is missing, will install chocolatey if needed, and will refresh the current consoles environment variables if needed. 
+Choquire checks whether any given package is installed, Installs it if it is missing, installs chocolatey if needed, and refreshes the current console environment variables if needed. 
 
 All of the above reduces any dependency or program to:
 
